@@ -6,3 +6,5 @@ prueba repositorio webhook devops para generar eventos para jenkins
 - Paso 2: Repositorio creado y clonado localmente OK
 
 - Paso 3: Webhook configurado en Github Ok
+
+Prueba de webhook desde git
